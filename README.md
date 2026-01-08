@@ -2,7 +2,7 @@
 🔭 I’m working on StateMC (Minecraft Server)<br>
 👯 Currently a mid-level frontend developer<br>
 🤝 Always looking for the best way to study<br>
-🌱 Learning GIt | RPA + IA | PHP | Physics <br>
+🌱 Learning Git | RPA + IA | PHP | Physics <br>
 💬 Ask me about my political opinions<br>
 ⚡ Fun fact: I used to be an athlete
 
