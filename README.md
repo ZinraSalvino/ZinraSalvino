@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About me:
 🔭 I’m working on StateMC (Minecraft Server)<br>
 👯 Currently a mid-level frontend developer<br>
 🤝 Always looking for the best way to study<br>
